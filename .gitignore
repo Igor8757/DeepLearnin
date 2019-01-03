@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+best_model_weights_run1.h5
